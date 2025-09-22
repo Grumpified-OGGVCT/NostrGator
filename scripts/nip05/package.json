@@ -18,7 +18,7 @@
   "author": "NostrGator",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^5.1.0",
     "express-rate-limit": "^7.4.1",
     "cors": "^2.8.5",
     "js-yaml": "^4.1.0",
