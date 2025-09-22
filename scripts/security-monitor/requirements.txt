@@ -1,6 +1,6 @@
 requests==2.32.3
 pyyaml==6.0.2
-aiohttp==3.10.11
+aiohttp==3.12.15
 docker==7.1.0
 schedule==1.2.2
 prometheus-client==0.21.0
